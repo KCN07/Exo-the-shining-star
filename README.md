@@ -25,3 +25,8 @@ This Demo project is mainly based on famous korean Boy Band "EXO". IT will show 
        - Total members Count who donated.
        - Total collected Donations.
        - Name of the Donators.
+
+
+##Live Site link
+
+Click [EXO-The Shining star](https://exo-the-shining-star.netlify.app/)
