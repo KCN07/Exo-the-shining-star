@@ -57,7 +57,7 @@ const members = [
     {
         id: 6,
         name:  "Byun Baek-hyun",
-        img: "https://static.wikia.nocookie.net/thelostplanet/images/e/ea/Baekhyun_%28Don%27t_Fight_The_Feeling%29_4.png/revision/latest?cb=20210527015045",
+        img: "https://assets.vogue.com/photos/5aef0a2cb476bc53054a0b48/master/w_1600%2Cc_limit/01-prive-bbh.jpg",
         instruments: "Main Vocals",
         age: "29",
         height: "1.74",

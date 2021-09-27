@@ -24,6 +24,10 @@ const Member = (props) => {
         >
           <FontAwesomeIcon icon={faShoppingCart} /> add to cart
   </button>
+  <br />
+  <i className="fab fa-instagram sc-icon "></i>
+  <i className="fab fa-twitter sc-icon"></i>
+  
 </div>
 </div>
     );

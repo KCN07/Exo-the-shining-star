@@ -12,6 +12,8 @@
     background-color: black;
     color: white;
     border: 1px solid white;
+    text-align: center;
+    padding-bottom: 20px;
   }
   
   .card:hover {
@@ -24,4 +26,15 @@
   
   .container {
     padding: 2px 16px;
+  }
+
+  .card button{
+    padding: 10px 20px;
+  }
+
+  .sc-icon{
+    color: white;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-size: 30px;
   }
